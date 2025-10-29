@@ -2,6 +2,8 @@
 
 State income tax calculator with ACS median earnings by occupation visualization for all 50 US states.
 
+**Live Demo:** https://missionloyd.github.io/tax-earnings-map/app
+
 ## Usage
 
 ```bash
